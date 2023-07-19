@@ -1,6 +1,6 @@
 # DVD Rentals D191 - Advance Data Management: Automating Data Integration
 
-This project includes a word doc of the requirements in place of demo: 
+This project includes a docx. of the requirements in place of demo: 
 
 https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=661d251f-800c-4d3e-8f51-ae8300944178
 

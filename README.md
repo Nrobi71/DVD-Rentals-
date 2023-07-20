@@ -1,18 +1,18 @@
 # DVD Rentals D191 - Advance Data Management: Automating Data Integration
 
-This project includes a docx. of the requirements and transcript (red text) of demo: 
+### This project includes a docx. of the requirements and transcript (red text) of demo: 
 
 https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=661d251f-800c-4d3e-8f51-ae8300944178
 
-LoDs ProstgreSQL lab environment: pgAdmin 4
+### LoDs ProstgreSQL lab environment: pgAdmin 4
 
 
-SCENORIO:
+## SCENORIO:
 
 A positive trend in sales of Movies-To-Go DVD Rentals has stakeholders pleased. However, they would like to see more growth. The marketing team has developed a loyalty program for customers to acquire rewards via a point system. The point rewards through a loyalty program will convince current customers to rent again and maintain relevance with both existing and future clientele. This will build the most revenue by utilizing a much cheaper marketing strategy. To kick off this promotion, we will reward our top ten renters each with 10,000 points multiplied by the number of their total rentals. The points earned can be used towards multiple free rentals. The customers will receive a confirmation of their rewarded points by email.
 
 
-REQUIREMENTS:
+## REQUIREMENTS:
 
 A.   Summarize one real-world business report that can be created from the attached Data Sets and Associated Dictionaries. 
 
